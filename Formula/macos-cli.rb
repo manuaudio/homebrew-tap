@@ -2,7 +2,7 @@ class MacosCli < Formula
   desc "Drive your Mac from the command line, with JSON for agents"
   homepage "https://github.com/manuaudio/macos-cli"
   url "https://github.com/manuaudio/macos-cli/releases/download/v0.9.0/macos-cli-0.9.0-arm64.zip"
-  sha256 "0872f6f57a12c2a90c1ff5a8f2b96a14e6b63c747f0b94036f8ba8089f6c7d63"
+  sha256 "5b0485d31c3b5b4a8145872d31ac6e5398d603c1f92bf6b7b8b8bb6e25d41edb"
   version "0.9.0"
   license "MIT"
 
